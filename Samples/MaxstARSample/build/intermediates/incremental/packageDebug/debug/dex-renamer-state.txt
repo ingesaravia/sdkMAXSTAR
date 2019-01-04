@@ -1,0 +1,4 @@
+#Tue Apr 10 01:36:38 ART 2018
+base.0=G\:\\Dropbox\\PROY.ANDROID\\sdkMAXSTAR\\Samples\\MaxstARSample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=G\:\\Dropbox\\PROY.ANDROID\\sdkMAXSTAR\\Samples\\MaxstARSample\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
